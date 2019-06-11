@@ -9,6 +9,7 @@ Thanks for joining our session! Today, you learned about these GitHub concepts a
 - [Viewing your profile](https://help.github.com/en/articles/about-your-profile)
 - [About repositories](https://help.github.com/en/articles/about-repositories) and [About organizations](https://help.github.com/en/articles/about-organizations)
 - [Editing files in your repository](https://help.github.com/en/articles/editing-files-in-your-repository)
+- [About branches](https://help.github.com/en/articles/about-branches)
 - [About commits](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project#about-commits) (this is from the GitHub Desktop Help, but it's still useful information!)
 - [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
 - [Mentioning people and teams](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams)
