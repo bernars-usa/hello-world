@@ -2,7 +2,7 @@
 
 ![Picture of me]()
 
-Hi, I'm Charlene Bernard. I'm a ________ at *__________*.
+Hi, I'm Charlene Trivedi. I'm a ________ at *__________*.
 
 - **Past Companies and Organizations:**
 - **Hobbies:**
