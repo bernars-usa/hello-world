@@ -21,3 +21,7 @@ Thanks for joining our session! Today, you learned about these GitHub concepts a
 - [Use GitHub Desktop](https://help.github.com/en/desktop)
 - [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [Learn Git](https://www.codecademy.com/learn/learn-git)
+
+## Ask Questions on Slack
+
+We have a channel, **#help-with-github**, on the USDS slack for all github-related questions
